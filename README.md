@@ -132,3 +132,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contact
 
 Project Link: [https://github.com/rasrobo/video-compressor_50MB](https://github.com/rasrobo/video-compressor_50MB)
+## Donations
+
+If you find this software useful and would like to support its development, you can buy me a coffee! Your support is greatly appreciated.
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://buymeacoffee.com/robodigitalis)
